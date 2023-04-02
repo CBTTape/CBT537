@@ -1,0 +1,6 @@
+2023-04-03 01:01:08.602985 - Initialized conversion of CBT537
+2023-04-03 01:01:08.648407 - Received CBT.V504.FILE537.PDS from FILE537.XMI 
+2023-04-03 01:01:08.651475 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE537.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:01:08.652840 - Found $EXIT.txt (text/plain) in CBT.V504.FILE537.PDS, moved to PDS/$EXIT
+2023-04-03 01:01:08.654070 - Found $HEDIT.txt (text/plain) in CBT.V504.FILE537.PDS, moved to PDS/$HEDIT
+2023-04-03 01:01:08.655477 - Found @FILE537.txt (text/plain) in CBT.V504.FILE537.PDS, moved to PDS/@FILE537
