@@ -1,5 +1,5 @@
-2025-04-13 20:33:20.656733 - Received CBT.V508.FILE537.PDS from FILE537.XMI 
-2025-04-13 20:33:20.657397 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:33:20.657471 - Found $EXIT.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$EXIT
-2025-04-13 20:33:20.657549 - Found $HEDIT.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$HEDIT
-2025-04-13 20:33:20.657609 - Found @FILE537.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/@FILE537
+2025-04-15 03:19:22.046614 - Received CBT.V508.FILE537.PDS from FILE537.XMI 
+2025-04-15 03:19:22.047784 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:19:22.048102 - Found $EXIT.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$EXIT
+2025-04-15 03:19:22.048435 - Found $HEDIT.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/$HEDIT
+2025-04-15 03:19:22.048632 - Found @FILE537.txt (text/plain) in CBT.V508.FILE537.PDS, moved to PDS/@FILE537
